@@ -1,8 +1,8 @@
 # python-code-project
-# 🐍 Python Coding Practice – 30 Problems
+#  Python Coding Practice – 30 Problems
+# 30 Python coding practice questions solved using Google Colab and Python.
 
-This repository contains solutions to **30 Python programming questions** that I solved as part of my learning and practice journey.
-
+# This repository contains solutions to **30 Python programming questions** that I solved as part of my learning and practice journey.
 ## 📌 About the Project
 
 The goal of this project is to improve problem-solving skills and strengthen understanding of core Python concepts by practicing a variety of coding problems.
@@ -28,7 +28,7 @@ problem2.py
 ...
 problem30.py
 
-## 💡 What I Learned
+##  What I Learned
 
 * Writing clean and readable Python code
 * Breaking down problems into smaller steps
@@ -39,7 +39,7 @@ problem30.py
 
 * Python 3
 
-## ▶️ How to Run
+##  How to Run
 
 1. Clone the repository
 2. Open the project folder
@@ -52,9 +52,7 @@ problem30.py
 * Optimize solutions
 * Include explanations for each problem
 
-## 🤝 Contribution
 
-This is a personal learning project, but suggestions and improvements are welcome.
 
 ## 📬 Contact
 
